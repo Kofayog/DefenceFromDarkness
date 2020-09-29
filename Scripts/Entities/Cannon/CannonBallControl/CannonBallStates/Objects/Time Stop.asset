@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0af9bef6e3ae0f741bab4446f81e65ee, type: 3}
+  m_Name: Time Stop
+  m_EditorClassIdentifier: 
+  nextState: {fileID: 11400000, guid: 6dfca68cda7473a4c9dccc956bfb6563, type: 2}
+  visualizerPool: {fileID: 11400000, guid: 83b6d5482de909f4e9348f5c91576894, type: 2}
+  timeToExit: {fileID: 11400000, guid: b609ea409a8e6c34eb80a7fe207f684a, type: 2}
+  targetPoint: {fileID: 11400000, guid: 8c65da2f509420141a459bb83dd55e3f, type: 2}
+  range: 50
